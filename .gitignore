@@ -1,0 +1,7 @@
+# PyCharm folders to be ignored
+.idea/
+__pycache__/
+venv/
+# Project files
+/api_key.txt
+graphics/
