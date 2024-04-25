@@ -59,8 +59,6 @@ To contribute, please follow these steps:
 5.  Push your changes to your forked repository.
 6.  Open a pull request to the main repository.
 
-Please ensure that your code is well-documented, tested, and follows the existing code style and guidelines. By contributing, you agree to release your code under the same MIT license as the original code.
-
 
 
 ## **Examples**
